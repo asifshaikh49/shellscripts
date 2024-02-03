@@ -1,0 +1,16 @@
+Sat Feb  3 12:21:16 UTC 2024
+1_arrugemnt_fun.sh
+2_continue.sh
+3_sleep.sh
+args.sh
+dice.sh
+file.txt
+file_exit_check.sh
+fun_with_arg.sh
+function.sh
+names.txt
+root_check.sh
+shift_arg.sh
+until_loop.sh
+while_loop.sh
+while_with_file.sh

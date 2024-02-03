@@ -1,0 +1,146 @@
+    1  ls
+    2  mkdir scripts
+    3  ls
+    4  cd scripts/
+    5  vim while_loop.sh
+    6  bash while_loop.sh 
+    7  vim until_loop.sh
+    8  bash until_loop.sh 
+    9  vim while_with_file.sh
+   10  vim names.txt
+   11  vim while_with_file.sh
+   12  bash while_with_file.sh 
+   13  vim names.txt
+   14  bash while_with_file.sh 
+   15  vim names.txt
+   16  vim while_with_file.sh
+   17  bash while_with_file.sh 
+   18  vim function.sh
+   19  bash function.sh
+   20  vim function.sh
+   21  bash function.sh
+   22  vim function.sh
+   23  bash function.sh
+   24  git init
+   25  git add *
+   26  git commit -m "This are loops conditiomal Statement"
+   27  git log
+   28  git branch -m main
+   29  git remote add origin
+   30  git remote add origin https://github.com/asifshaikh49/shellscripts
+   31  git remote set-url
+   32  git remote set-url --push origin https://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@github.com/asifshaikh49/shellscripts
+   33  git push -u origin main
+   34  git remote push -u origin main
+   35  git remote push push origin master
+   36  git remote add origin https://github.com/asifshaikh49/shellscripts.git
+   37  git remote push origin main
+   38  git log
+   39  cd ..
+   40  cd scripts/
+   41  ls
+   42  git remote -v
+   43  git branch main
+   44  git push -u origin main
+   45  cd ..
+   46  logout
+   47  ls
+   48  cd scripts/
+   49  ls
+   50  vim 1_arrugemnt_fun.sh
+   51  bash 1_arrugemnt_fun.sh 
+   52  vim 1_arrugemnt_fun.sh
+   53  bash 1_arrugemnt_fun.sh 
+   54  vim 1_arrugemnt_fun.sh
+   55  bash 1_arrugemnt_fun.sh 
+   56  vim 2_continue.sh
+   57  bash 2_continue.sh 
+   58  vim 3_sleep.sh
+   59  bash 3_sleep.sh 
+   60  vim 3_sleep.sh
+   61  bash 3_sleep.sh 
+   62  git init
+   63  git branch
+   64  git checkout -b dev
+   65  git push origin dev
+   66  ls
+   67  git add 1_arrugemnt_fun.sh 2_continue.sh 3_sleep.sh 
+   68  git commit -m "New scipts added"
+   69  git branch
+   70  git push origin dev
+   71  cd ..
+   72  exit
+   73  ls
+   74  cd scripts/
+   75  ls
+   76  vim function.sh 
+   77  bash function.sh 
+   78  vim function.sh 
+   79  bash function.sh 
+   80  vim function.sh 
+   81  bash function.sh 
+   82  vim function.sh 
+   83  bash function.sh 
+   84  vim fun_with_arg.sh
+   85  bash fun_with_arg.sh 
+   86  vim args.sh
+   87  bash args.sh 
+   88  bash args.sh sham
+   89  bash args.sh 
+   90  vim args.sh
+   91  bash args.sh sham raju babu
+   92  vim args.sh
+   93  bash args.sh sham raju babu 1 2 3
+   94  vim shift_arg.sh
+   95  bash shift_arg.sh asif test
+   96  bash shift_arg.sh asif "Test user for QA team"
+   97  vim shift_arg.sh
+   98  bash shift_arg.sh asif Test user for QA team
+   99  pwd
+  100  vim file_exit_check.sh
+  101  bash /home/ubuntu/scripts/names.txt
+  102  basename /home/ubuntu/scripts
+  103  dirname /home/ubuntu/scripts/names.txt 
+  104  cd ..
+  105  cd /
+  106  ls
+  107  realpath names.txt
+  108  realpath hi
+  109  pwd
+  110  ls
+  111  cd home/
+  112  cd ubuntu/
+  113  ls
+  114  cs scripts/
+  115  cd scripts/
+  116  ls
+  117  vim file_exit_check.sh 
+  118  bash file_exit_check.sh 
+  119  echo $?
+  120  vim file_exit_check.sh 
+  121  bash file_exit_check.sh 
+  122  vim file_exit_check.sh 
+  123  bash file_exit_check.sh 
+  124  vim file_exit_check.sh 
+  125  ls
+  126  cat file.txt 
+  127  echo $RANDOM
+  128  echo $UID
+  129  vim dice.sh
+  130  bash dice.sh 
+  131  vim dice.sh
+  132  bash dice.sh 
+  133  vim root_check.sh
+  134  bash root_check.sh 
+  135  su -
+  136  ls
+  137  hostname
+  138  ls > file.txt
+  139  ls
+  140  cat file.txt
+  141  date file.txt 
+  142  date > file.txt
+  143  cat file.txt
+  144  ls >>file.txt
+  145  cat file.txt
+  146  history > filehistory.txt
